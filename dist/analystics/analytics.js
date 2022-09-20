@@ -1,3 +1,4 @@
 "use strict";
-console.log("sending it...!!!!!");
+const saying = "sending it...!!!!!";
+console.log(saying);
 //# sourceMappingURL=analytics.js.map
